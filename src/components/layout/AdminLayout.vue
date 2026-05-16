@@ -2,7 +2,7 @@
   <div class="app-shell admin-layout" :class="{ 'app-shell--sidebar-collapsed': isSidebarCollapsed }">
     <aside class="sidebar admin-layout__sidebar">
       <RouterLink class="brand-block" to="/">
-        <strong>cicdtest</strong>
+        <strong>Biddinggo</strong>
         <span>BIDDINGMATE</span>
       </RouterLink>
 

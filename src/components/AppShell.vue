@@ -7,7 +7,7 @@
       @scroll="handleSidebarScroll"
     >
       <button class="brand-block app-shell__brand" type="button" @click="emit('navigate', '/')">
-        <strong>Biddinggo</strong>
+        <strong>cicd test</strong>
         <span>BIDDINGMATE</span>
       </button>
 
